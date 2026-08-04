@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-
-internal class Program
+﻿ internal class Program
 {
     private static void Main(string[] args)
     {
@@ -43,25 +41,19 @@ internal class Program
         }
 
         /* Solicitar a senha até acertar */
-        string senha = "";
+        string senha = "2444";
         while(senha != "2444")
         {
             Console.Write("Digite a Senha: ");
             senha = Console.ReadLine();
         }
         Console.WriteLine("Acesso permitido!");
-
-
-        /************************************************************/
+        /*********************************************************/
         int num;
         do
         {
-            Console.WriteLine("Digite um numero ositivo: ");
+            Console.Write("Digite um Numero Positivo: ");
             num = int.Parse(Console.ReadLine());
         }while(num <=0);
-
-
-
-
     }
 }
