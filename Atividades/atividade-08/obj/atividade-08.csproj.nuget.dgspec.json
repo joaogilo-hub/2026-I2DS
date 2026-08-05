@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/DS1/Desktop/2026-I2DS/exercicio/atividade-08/atividade-08.csproj": {}
+    "/Users/DS1/Desktop/2026-I2DS/Atividades/atividade-08/atividade-08.csproj": {}
   },
   "projects": {
-    "/Users/DS1/Desktop/2026-I2DS/exercicio/atividade-08/atividade-08.csproj": {
+    "/Users/DS1/Desktop/2026-I2DS/Atividades/atividade-08/atividade-08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/DS1/Desktop/2026-I2DS/exercicio/atividade-08/atividade-08.csproj",
+        "projectUniqueName": "/Users/DS1/Desktop/2026-I2DS/Atividades/atividade-08/atividade-08.csproj",
         "projectName": "atividade-08",
-        "projectPath": "/Users/DS1/Desktop/2026-I2DS/exercicio/atividade-08/atividade-08.csproj",
+        "projectPath": "/Users/DS1/Desktop/2026-I2DS/Atividades/atividade-08/atividade-08.csproj",
         "packagesPath": "/Users/DS1/.nuget/packages/",
-        "outputPath": "/Users/DS1/Desktop/2026-I2DS/exercicio/atividade-08/obj/",
+        "outputPath": "/Users/DS1/Desktop/2026-I2DS/Atividades/atividade-08/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/DS1/.nuget/NuGet/NuGet.Config"
