@@ -1,0 +1,15 @@
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/bin/Debug/net10.0/atidade-01
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/bin/Debug/net10.0/atidade-01.deps.json
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/bin/Debug/net10.0/atidade-01.runtimeconfig.json
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/bin/Debug/net10.0/atidade-01.dll
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/bin/Debug/net10.0/atidade-01.pdb
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/obj/Debug/net10.0/atidade-01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/obj/Debug/net10.0/atidade-01.AssemblyInfoInputs.cache
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/obj/Debug/net10.0/atidade-01.AssemblyInfo.cs
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/obj/Debug/net10.0/atidade-01.csproj.CoreCompileInputs.cache
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/obj/Debug/net10.0/atidade-01.sourcelink.json
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/obj/Debug/net10.0/atidade-01.dll
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/obj/Debug/net10.0/refint/atidade-01.dll
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/obj/Debug/net10.0/atidade-01.pdb
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/obj/Debug/net10.0/atidade-01.genruntimeconfig.cache
+/Users/DS1/Desktop/2026-I2DS/exercicio/atidade-01/obj/Debug/net10.0/ref/atidade-01.dll
