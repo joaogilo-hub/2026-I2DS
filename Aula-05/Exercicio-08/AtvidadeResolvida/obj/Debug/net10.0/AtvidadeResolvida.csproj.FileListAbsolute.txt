@@ -1,0 +1,15 @@
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/bin/Debug/net10.0/AtvidadeResolvida
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/bin/Debug/net10.0/AtvidadeResolvida.deps.json
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/bin/Debug/net10.0/AtvidadeResolvida.runtimeconfig.json
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/bin/Debug/net10.0/AtvidadeResolvida.dll
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/bin/Debug/net10.0/AtvidadeResolvida.pdb
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/obj/Debug/net10.0/AtvidadeResolvida.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/obj/Debug/net10.0/AtvidadeResolvida.AssemblyInfoInputs.cache
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/obj/Debug/net10.0/AtvidadeResolvida.AssemblyInfo.cs
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/obj/Debug/net10.0/AtvidadeResolvida.csproj.CoreCompileInputs.cache
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/obj/Debug/net10.0/AtvidadeResolvida.sourcelink.json
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/obj/Debug/net10.0/AtvidadeResolvida.dll
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/obj/Debug/net10.0/refint/AtvidadeResolvida.dll
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/obj/Debug/net10.0/AtvidadeResolvida.pdb
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/obj/Debug/net10.0/AtvidadeResolvida.genruntimeconfig.cache
+/Users/DS1/Desktop/2026-I2DS/Aula-05/Exercicio-08/AtvidadeResolvida/obj/Debug/net10.0/ref/AtvidadeResolvida.dll
